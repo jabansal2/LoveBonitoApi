@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-12T07:06:20Z" name="Default suite" finished-at="2021-04-12T07:06:46Z" duration-ms="25209">
+    <groups>
+    </groups>
+    <test started-at="2021-04-12T07:06:20Z" name="Default test" finished-at="2021-04-12T07:06:46Z" duration-ms="25209">
+      <class name="TestScripts.TestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:20Z" name="setup" finished-at="2021-04-12T03:06:22Z" duration-ms="1913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:24Z" name="test1" data-provider="data-provider" finished-at="2021-04-12T03:06:32Z" duration-ms="7863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a7d9c2cf20525f58611a769fb8fb0026]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6cc1c9cc298435f94f6a553319de76fa02c0a07ed874adf01aaa9ea3f6eb4bb7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:33Z" name="test1" data-provider="data-provider" finished-at="2021-04-12T03:06:35Z" duration-ms="2472" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[888ec65ad9cc4a3cae8ec4e1e7b04f71]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1dba5e964eaa66ee839ad6042032d724feb88526bf683fd9aec5bb0b310446e6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:35Z" name="test1" data-provider="data-provider" finished-at="2021-04-12T03:06:37Z" duration-ms="1804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[888ec65ad9cc4a3cae8ec4e1e7b04f71]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4b82080799112c75b9f989adf6fe3e018ecb925540f02fa157715fdcf864d917]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:37Z" name="test1" data-provider="data-provider" finished-at="2021-04-12T03:06:39Z" duration-ms="2382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[888ec65ad9cc4a3cae8ec4e1e7b04f71]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4b9272312735f26d78062955c780287a57a11365e7aeb607709cbb8623a6dccb]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:39Z" name="test1" data-provider="data-provider" finished-at="2021-04-12T03:06:41Z" duration-ms="1456" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[c67de9d78a61fad2d9cb2196b8c11a3f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[c3815523baeb29442ace1741f38e59a601183223e0515ed90fe6350d34a2fbd0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:41Z" name="test1" data-provider="data-provider" finished-at="2021-04-12T03:06:43Z" duration-ms="2272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[c67de9d78a61fad2d9cb2196b8c11a3f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[03c3a38198153f4e2b1d93a3365e606ba63b79f75c42d2377f7e3e48e91b4c51]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:43Z" name="test1" data-provider="data-provider" finished-at="2021-04-12T03:06:45Z" duration-ms="2280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[c67de9d78a61fad2d9cb2196b8c11a3f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8f3297320ee3ffa8f9ac5fe8dcdb85c9628d2d193d4cdabdf640578987e4203b]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="testscenarios(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:46Z" name="testscenarios" data-provider="data-provider" finished-at="2021-04-12T03:06:46Z" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a7d9c2cf20525f58611a769fb8fb0026]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6cc1c9cc298435f94f6a553319de76fa02c0a07ed874adf01aaa9ea3f6eb4bb7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscenarios -->
+        <test-method signature="testscenarios(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:46Z" name="testscenarios" data-provider="data-provider" finished-at="2021-04-12T03:06:46Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[888ec65ad9cc4a3cae8ec4e1e7b04f71]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1dba5e964eaa66ee839ad6042032d724feb88526bf683fd9aec5bb0b310446e6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscenarios -->
+        <test-method signature="testscenarios(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:46Z" name="testscenarios" data-provider="data-provider" finished-at="2021-04-12T03:06:46Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[888ec65ad9cc4a3cae8ec4e1e7b04f71]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4b82080799112c75b9f989adf6fe3e018ecb925540f02fa157715fdcf864d917]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscenarios -->
+        <test-method signature="testscenarios(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:46Z" name="testscenarios" data-provider="data-provider" finished-at="2021-04-12T03:06:46Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[888ec65ad9cc4a3cae8ec4e1e7b04f71]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4b9272312735f26d78062955c780287a57a11365e7aeb607709cbb8623a6dccb]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscenarios -->
+        <test-method signature="testscenarios(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:46Z" name="testscenarios" data-provider="data-provider" finished-at="2021-04-12T03:06:46Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[c67de9d78a61fad2d9cb2196b8c11a3f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[c3815523baeb29442ace1741f38e59a601183223e0515ed90fe6350d34a2fbd0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscenarios -->
+        <test-method signature="testscenarios(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:46Z" name="testscenarios" data-provider="data-provider" finished-at="2021-04-12T03:06:46Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[c67de9d78a61fad2d9cb2196b8c11a3f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[03c3a38198153f4e2b1d93a3365e606ba63b79f75c42d2377f7e3e48e91b4c51]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscenarios -->
+        <test-method signature="testscenarios(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScripts.TestCases@f478a81]" started-at="2021-04-12T03:06:46Z" name="testscenarios" data-provider="data-provider" finished-at="2021-04-12T03:06:46Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[c67de9d78a61fad2d9cb2196b8c11a3f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8f3297320ee3ffa8f9ac5fe8dcdb85c9628d2d193d4cdabdf640578987e4203b]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FirstBoard]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FirstList]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SpecialCard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscenarios -->
+      </class> <!-- TestScripts.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
